@@ -1,10 +1,10 @@
-# 🕹️ 3Dgame
+# 3Dgame
 
 i make a 3dgame with pure python and math running in terminal using raycasting method(kinda inspired by old Doom).
 
 ![3dascii](https://github.com/user-attachments/assets/db915549-5414-40f2-a130-b8295ab66dab)
 
-# ✅ How it works & features
+# How it works & features
 
 i can't explain everything but , the game working by using ascii char to define shading and using fov and angles to calculate wall height , width and distance.
 
